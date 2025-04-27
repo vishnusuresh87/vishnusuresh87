@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Explainable AI techniques for deep learning–based financial time series models. 
 - 💞️ I’m looking to collaborate on open-source ETL pipelines, BI/analytics solutions, machine learning and deep learning projects.
 - 📫 How to reach me ...
-- - ✉️ vishnusuresh87@gmail.com  
   - 🔗 [LinkedIn](https://www.linkedin.com/in/vishnusuresh87)  
   - 🐙 [GitHub](https://github.com/vishnusuresh87)
 - 😄 Pronouns: he/him
