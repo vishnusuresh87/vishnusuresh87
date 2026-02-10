@@ -5,7 +5,7 @@
 - How to reach me ...
   - [LinkedIn](https://www.linkedin.com/in/vishnusuresh87)  
   - [GitHub](https://github.com/vishnusuresh87)
-- I began my career in banking—managing branch operations and forex—before pivoting full-time into data science!
-             - My first “SQL” was balancing branch ledgers—now I query massive data warehouses.
+- I began my career in banking-managing branch operations and forex-before pivoting full-time into data science!
+             - My first “SQL” was balancing branch ledgers, now I query massive data warehouses.
 
 
