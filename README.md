@@ -10,8 +10,8 @@
 ![MSc](https://img.shields.io/badge/MSc-Data%20Science%2C%20Surrey-1f6feb?style=flat-square)
 ![Cert](https://img.shields.io/badge/Certified-Azure%20Databricks%20Data%20Engineer-ff3621?style=flat-square&logo=databricks&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-<[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=githubpages&logoColor=white)](https://vishnusuresh87.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnusuresh87/)
+<[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/vishnusuresh87)
 -->
 <
 [![Email](https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnusuresh87@gmail.com)
@@ -84,7 +84,7 @@ flowchart LR
 | **Warehouse & Lakehouse** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) |
 | **Transform & Orchestrate** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
 | **Languages** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **ML & NLP** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **ML & NLP** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
 | **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | **Enterprise & Legacy ETL** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![IBM](https://img.shields.io/badge/IBM%20DataStage-052FAD?style=flat-square&logo=ibm&logoColor=white) |
 | **Serving & Apps** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
@@ -97,7 +97,7 @@ flowchart LR
 
 - **Data modelling:** dimensional design, medallion layers, incremental strategies
 - **Modern data stack:** dbt, Airflow, Airbyte, Databricks, open table formats
-- **Data quality:** tests, freshness checks, reconciliation (a habit from banking)
+- **Data quality:** tests, freshness checks, reconciliation
 - **Currently studying:** GCP Professional Data Engineer
 - **Also exploring:** agentic AI, deep learning and LLMs
 
