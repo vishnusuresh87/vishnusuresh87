@@ -10,10 +10,10 @@
 ![MSc](https://img.shields.io/badge/MSc-Data%20Science%2C%20Surrey-1f6feb?style=flat-square)
 ![Cert](https://img.shields.io/badge/Certified-Azure%20Databricks%20Data%20Engineer-ff3621?style=flat-square&logo=databricks&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnusuresh87/
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/vishnusuresh87
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnusuresh87/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/vishnusuresh87)
 
-[![Email](https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnusuresh87@gmail.com
+[![Email](https://img.shields.io/badge/Email-Say%20hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnusuresh87@gmail.com)
 
 </div>
 
